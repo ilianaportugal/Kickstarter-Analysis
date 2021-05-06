@@ -7,7 +7,7 @@ Analysis on Kickstarter crowdfunding projects
 The purpose of this project is to analyze kickstarter campaigns in order to discover relationships between different factors involved in launching a campaign. This data set was used to perform an analysis to help a play reach their fundraising goal. Now that the play is close to reaching their goal amount, we are interested in analyzing campaign outcomes against different variables. We are primarily concerned with two factors: launch dates and funding goals.  
 
 ## Analysis and Challenges
-Within this project I focused on analyzing campaign outcomes based on launch dates and funding goals, narrowing down on the parent category of theater and subcategory of plays, respectively
+In this project, I focused on analyzing campaign outcomes based on launch dates and funding goals, narrowing down on the parent category of theater and subcategory of plays, respectively
 
 ### Analysis of Outcomes Based on Launch Date
 To identify how the launch date affected outcomes I created a Pivot Table and Chart. In the Table, I filtered by ‘Parent Category’ and ‘Year’, used ‘Outcomes’ for columns as well as values. and ‘Date Created” for rows. The category of focus for this data is “Theater”, so I filtered to only display these values. I grouped the Rows by Months to make the data easier to read. I then created a Pivot Chart from this data to visualize the relationship between Launch Dates and Outcomes
@@ -32,7 +32,7 @@ A challenge I faced was formatting the formula I wrote in the sheet named ‘Out
 
 The first conclusion I can draw is that Launch Dates seem to have little to no affect on whether the outcome of a campaign is “canceled”. The line stays between 1-10 throughout all of the months. 
 
-The second conclusion I can draw is that the month of May had the highest number of Successful campaigns, with June and July also having a high number of successful campaigns. This means the early summer months have higher rates of successful campaigns.
+The second conclusion I can draw is that the month of May had the highest number of Successful campaigns, with June and July also having a high number of successful campaigns. Meaning, early summer months have higher rates of successful campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -44,5 +44,5 @@ One major limitation of this data is that we don’t have information on tactics
 
 - What are some other possible tables and/or graphs that we could create?
 
-From the dataset we can look at the length of time vs fundraising outcome in a graph to visualize trends. From this trend we can see typically how long it takes for a successful campaign to reach their goal amount.
+From the dataset we can look at the length of time vs fundraising outcome in a graph to visualize trends. From this trend we can see, typically, how long it takes for a successful campaign to reach their goal amount.
 
